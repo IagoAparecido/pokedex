@@ -1,7 +1,7 @@
 Estudo de APIs e React.JS, uma pokédex em react usando a pokeAPI.
   
 <div>
-    <img src="./public/assets/Screenshot_1.png" width="400px"</img> 
+    <img src="./public/assets/Screenshot_1.png" width="800px"</img> 
 </div>
 
 
