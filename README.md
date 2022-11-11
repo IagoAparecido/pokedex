@@ -1,4 +1,6 @@
-Estudo de APIs e React.JS, uma pokédex em react usando a pokeAPI.
+<h1>Estudo de API e React.JS.</h1>
+
+Uma pokédex em react usando a pokeAPI.
   
 <div>
     <img src="./public/assets/Screenshot_1.png" width="800px"</img> 
