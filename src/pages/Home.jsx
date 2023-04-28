@@ -40,7 +40,7 @@ const Home = () => {
     }
     setPokemons(filteredPokemons);
   };
-
+  
   return (
     <div>
       <Navbar pokemonFilter={pokemonFilter} />
